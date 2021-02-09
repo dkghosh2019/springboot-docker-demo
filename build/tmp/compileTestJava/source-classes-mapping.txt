@@ -1,0 +1,2 @@
+com/browny/pringboot/docker/demo/SpringbootDockerDemoApplicationTests.java
+ com.browny.pringboot.docker.demo.SpringbootDockerDemoApplicationTests
